@@ -12,6 +12,7 @@
 		70354EC92046A46000412BC1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70354EC72046A46000412BC1 /* Main.storyboard */; };
 		70354ECB2046A46500412BC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70354ECA2046A46500412BC1 /* Assets.xcassets */; };
 		70354ECE2046A46500412BC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70354ECC2046A46500412BC1 /* LaunchScreen.storyboard */; };
+		70354ED62046A48400412BC1 /* qwViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70354ED52046A48400412BC1 /* qwViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		70354ECA2046A46500412BC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		70354ECD2046A46500412BC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		70354ECF2046A46500412BC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		70354ED52046A48400412BC1 /* qwViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = qwViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				70354EC32046A46000412BC1 /* AppDelegate.swift */,
 				70354EC52046A46000412BC1 /* ViewController.swift */,
+				70354ED52046A48400412BC1 /* qwViewController.swift */,
 				70354EC72046A46000412BC1 /* Main.storyboard */,
 				70354ECA2046A46500412BC1 /* Assets.xcassets */,
 				70354ECC2046A46500412BC1 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				70354EC62046A46000412BC1 /* ViewController.swift in Sources */,
 				70354EC42046A46000412BC1 /* AppDelegate.swift in Sources */,
+				70354ED62046A48400412BC1 /* qwViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
