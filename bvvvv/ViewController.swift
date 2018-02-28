@@ -48,12 +48,7 @@ class ViewController: UIViewController {
         print("clickedddd")
         
         let searchController = UISearchController(searchResultsController: self)
-      //  searchController.searchBar.delegate = self
-        searchController.obscuresBackgroundDuringPresentation = false
-        
-        searchController.searchBar.becomeFirstResponder()
-        definesPresentationContext = true
-        self.present(searchController, animated: true, completion: nil)
+    
     }
     
 }
