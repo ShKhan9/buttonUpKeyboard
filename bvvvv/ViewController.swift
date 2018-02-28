@@ -47,8 +47,7 @@ class ViewController: UIViewController {
         
         print("clickedddd")
         
-        let searchController = UISearchController(searchResultsController: self)
-    
+      
     }
     
 }
